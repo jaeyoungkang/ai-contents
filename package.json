@@ -1,0 +1,9 @@
+{
+    "name": "ai-contents",
+    "version": "1.0.0",
+    "description": "Artificial Mind contents hosting",
+    "scripts": {
+      "dev": "echo 'Content only project'",
+      "build": "echo 'No build needed'"
+    }
+  }
