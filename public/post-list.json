@@ -1,9 +1,10 @@
 {
-    "files": [
-        "AI-2025-halfyear-gemini.md",
-        "AI-202506-monthly-chatgpt.md",
-        "KOSPI-202506-market-rally-chatgpt.md",
-        "KOSPI-202506-market-rally-gemini.md"
-    ],
-    "lastUpdated": "2025-07-03T13:57:00.000Z"
-  }
+  "last_updated": "2025-07-03T16:34:21.519861",
+  "files": [
+    "AI-2025-halfyear-gemini.md",
+    "AI-202506-monthly-chatgpt.md",
+    "KOSPI-202506-market-rally-chatgpt.md",
+    "KOSPI-202506-market-rally-gemini.md",
+    "Prompt-Engineering-2025-halfyear-gemini.md"
+  ]
+}
