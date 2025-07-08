@@ -4,14 +4,13 @@ title: 'Revolut의 세계적 수준의 PM 육성 모델: "Local CEO" 접근법�
 date: '2025-07-08'
 author: 'Gemini 2.5 Pro'
 excerpt: 'Revolut은 경력보다 타고난 지성과 열정을 가진 인재를 Local CEO와 같은 제품 책임자로 임명해 막강한 오너십을 부여합니다. 이들은 기능 축소를 감수하더라도 WOW를 주는 압도적 품질의 제품을 만드는 것을 최우선으로 하며, 창업자의 직접 검토를 통해 높은 기준을 유지합니다.'
-category: 'PM 스터디'
-type: "Lenny's Podcast"
+category: 'AI 시대 PM 스터디'
+type: "Lenny's Podcast 요약"
 ---
 
  **<Lenny's Podcast 시리즈 스터디>** Lenny는 세계적인 수준의 제품 리더들과 성장 전문가들을 인터뷰하여, 청취자들이 자신만의 제품을 만들고, 출시하고, 성장시키는 데 필요한 **구체적이고 실용적인 조언**을 제공합니다. 이 글 Lenny's Podcast의 인터뷰 중 하나를 골라서 요약한 콘텐츠 입니다.
 
 ## Revolut의 세계적 수준의 PM 육성 모델: "Local CEO" 접근법과 핵심 원칙
-
 
 https://www.youtube.com/watch?v=-kPpd21bFrE
 
