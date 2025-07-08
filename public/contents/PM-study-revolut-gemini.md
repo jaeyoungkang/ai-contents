@@ -9,13 +9,13 @@ type: "Lenny's Podcast"
 ---
 
 Lenny's Podcast 시리즈 스터디
-https://www.youtube.com/watch?v=-kPpd21bFrE
 **Lenny's Podcast**는 Lenny Rachitsky가 진행하는 팟캐스트로, 주로 **제품, 성장, 그리고 경력**에 대한 주제를 다룹니다.
 
 매주 Lenny는 세계적인 수준의 제품 리더들과 성장 전문가들을 인터뷰하여, 청취자들이 자신만의 제품을 만들고, 출시하고, 성장시키는 데 필요한 **구체적이고 실용적인 조언**을 제공합니다. 스타트업을 운영하거나 제품 개발에 관심 있는 사람들에게 특히 유용한 정보를 제공하는 것으로 잘 알려져 있습니다.
 
 
 ## Revolut의 세계적 수준의 PM 육성 모델: "Local CEO" 접근법과 핵심 원칙
+*https://www.youtube.com/watch?v=-kPpd21bFrE
 
 Revolut은 50개국 이상에서 기존 은행에 도전하는 금융 슈퍼 앱으로, 저축, 암호화폐, 투자, 모기지 등 광범위한 서비스를 제공합니다. 이 회사는 600억 달러 이상의 가치 평가를 받았을 뿐만 아니라, 최고의 프로덕트 매니저(PM)를 고용하고 육성하는 기업으로 Palantir, Intercom과 함께 최상위에 꼽힙니다. Revolut의 글로벌 제품 책임자인 드미트리 즐로카조프(Dmitry Zlokazov)와의 인터뷰를 통해 그들의 성공 비결을 아래와 같이 정리할 수 있습니다.
 
