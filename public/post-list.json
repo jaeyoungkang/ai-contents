@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-07-08T16:34:21.519861",
+  "last_updated": "2025-07-10T16:34:21.519861",
   "files": [
     "AI-2025-halfyear-gemini.md",
     "AI-202506-monthly-chatgpt.md",
@@ -8,6 +8,7 @@
     "Prompt-Engineering-2025-halfyear-gemini.md",
     "forecasting-Tetlock-Klein-gemini.md",
     "PM-study-revolut-gemini.md",
-    "PM-study-peter-deng-gemini.md"
+    "PM-study-peter-deng-gemini.md",
+    "nlp-data-analysis-gemini.md"
   ]
 }
